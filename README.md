@@ -1,2 +1,2 @@
 # patternex
-Testing Scripts written for Patternex Inc.
+Testing Script written for Patternex Inc.
